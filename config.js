@@ -1,0 +1,20 @@
+const CONFIG = {
+    titleWeb: "Message for Ruhi 💕",
+    introTitle: "Ruhi, meri pyari",
+    introDesc: `Ruhi, tumhari hasi meri duniya hai,
+    Galti hui toh maaf kar dena,
+    Par agar nahi mai kaise khush rahunga,
+    Kyunki main tumse bahut pyaar karta hoon.`,
+    btnIntro: '^^HiHi^^',
+    title: 'Kya tum mujhe maaf karogi? 🥺',
+    desc: 'Maine galti ki, par dil se sorry bolta hoon.',
+    btnYes: 'Thik hai sona kar diye maaf <3',
+    btnNo: 'Nahi maaf karenge 😢',
+    question: 'Aap mujhse pyar karte hai na, Ruhi? <3',
+    btnReply: 'Haan, bilkul!',
+    reply: 'I love you so much Rishu, You are my everthing.',
+    mess: "Mujhe maaf karne ke liye shukriya 🥰. Tumse pyaar karta hoon 😘😘",
+    messDesc: "I love you so much my pasandida aurat.",
+    btnAccept: "Okkkkkk",
+    messLink: "https://youtu.be/wsflx5Zr5p4?si=ORA4V3gLIBiD1y-P"
+}
